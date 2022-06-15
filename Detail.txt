@@ -1,0 +1,9 @@
+Test Cases Flow:
+
+1. Signup
+2. Login
+3. Send Message
+4. View Product
+5. Add to Cart
+6. Delete from Cart
+7. Place Order
